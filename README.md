@@ -4,7 +4,7 @@ This will guide you with the installation and the Behaviour of the Project.
 
 ## Getting started
 
-### Setting up a project
+### Setting up the project
 
 * Move into your projects directory: `cd ~/YOUR_PROJECTS_DIRECTORY`
 * Clone this repository: `git clone https://github.com/akshatsolulab/ERC721DAOBE.git YOUR_PROJECT_NAME`
